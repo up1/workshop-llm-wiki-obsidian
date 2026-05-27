@@ -3,6 +3,9 @@
   * [Agent skills for Obsidian](https://github.com/kepano/obsidian-skills/)
 * Use LLM to assist in creating and organizing knowledge
 
+## List of tools
+* [Obsidian](https://obsidian.md) - note-taking and knowledge management app
+* [Obsidian CLI](https://obsidian.md/cli) - command-line interface for Obsidian
 
 
 ## Instructions to use
