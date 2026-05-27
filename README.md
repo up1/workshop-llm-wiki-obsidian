@@ -1,4 +1,7 @@
-
+## Workshop with LLM for Knowledge Management
+* Use Skills to create and manage knowledge in Obsidian
+  * [Agent skills for Obsidian](https://github.com/kepano/obsidian-skills/)
+* Use LLM to assist in creating and organizing knowledge
 
 
 
