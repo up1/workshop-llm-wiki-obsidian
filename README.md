@@ -40,5 +40,9 @@ create markdown in obsidian with base view of TOR: บํารุงรัก�
 try to breakdown to obsidian by topic of TOR : บํารุงรักษาระบบบริหารจัดการบริการเทคโนโลยีสารสนเทศ
 ```
 
+```
+Based on all content about "TOR : บํารุงรักษาระบบบริหารจัดการบริการเทคโนโลยีสารสนเทศ" in my "Notes" directory, create a mind map
+```
+
 
 
